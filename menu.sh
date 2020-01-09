@@ -6,7 +6,7 @@ function menu {
 	echo
 	echo -e "\tSys Admin Menu\n"
 	echo -e "\shell1. Display disk space"
-	echo -e "\t2. Display logged on users"
+	echo -e "\s2. Display logged on users"
 	echo -e "\s38. 使用函数循环写menu脚本"
 	echo -e "\t0. Exit program\n\n"
 	echo -en "\tEnter option:"
