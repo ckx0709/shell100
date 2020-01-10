@@ -21,7 +21,7 @@ function diskspace {
 function whoseon {
 	clear
 	who
-}
+}  
 
 function menusage {
 	clear
